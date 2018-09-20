@@ -14,7 +14,9 @@
 #else
 //生产
 //#define http_host @"http://jhzt.juhuizhitou.com/"
+
 #define http_host @"http://test.juhuizhitou.com/"//dev/release
+
 
 #endif
 
